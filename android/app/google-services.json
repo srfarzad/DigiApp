@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "433331722070",
+    "firebase_url": "https://digiapp-ad66c.firebaseio.com",
+    "project_id": "digiapp-ad66c",
+    "storage_bucket": "digiapp-ad66c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433331722070:android:3e849f37a0835e26c4a8f7",
+        "android_client_info": {
+          "package_name": "com.digiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433331722070-k1rqpelv6gth0s0upg0ab4ggvc0dies3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0sIW5RLOMZ1xCEBqVw5PyHoEEyiVK4ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433331722070-k1rqpelv6gth0s0upg0ab4ggvc0dies3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

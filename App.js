@@ -32,6 +32,7 @@ import Register from "./screens/Register";
 import { createBottomTabNavigator } from 'react-navigation-tabs';
 import CategoryScreen from "./screens/CategoryScreen";
 import SettingScreen from "./screens/SettingScreen";
+import HomeScreen from "./screens/HomeScreen";
 
 class LoginScreen extends Component<React> {
 
@@ -109,14 +110,7 @@ class LoginScreen extends Component<React> {
 
 }
 
-class HomeScreen extends Component<React> {
 
-    render() {
-        return (
-            <View/>
-        )
-    }
-}
 
 
 const BottomTabs = createBottomTabNavigator({
